@@ -1,0 +1,21 @@
+[submodule "ipec-fdp"]
+	path = ipec-fdp
+	url = git@github.com:jaidevd/ipec-fdp.git
+[submodule "scipy-2017-workshop"]
+	path = scipy-2017-workshop
+	url = git@github.com:jaidevd/scipy-2017-workshop.git
+[submodule "talentsprint-workshop"]
+	path = talentsprint-workshop
+	url = git@github.com:jaidevd/talentsprint-workshop.git
+[submodule "inmantec_fdp"]
+	path = inmantec_fdp
+	url = git@github.com:jaidevd/inmantec_fdp.git
+[submodule "theano_nn_tutorial"]
+	path = theano_nn_tutorial
+	url = git@github.com:jaidevd/theano_nn_tutorial.git
+[submodule "iiml_textmining"]
+	path = iiml_textmining
+	url = git@github.com:jaidevd/iiml_textmining.git
+[submodule "scipy_pandas_tutorial"]
+	path = scipy_pandas_tutorial
+	url = git@github.com:jaidevd/scipy_pandas_tutorial.git
